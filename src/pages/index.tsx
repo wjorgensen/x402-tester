@@ -737,7 +737,7 @@ const Home: NextPage = () => {
                             </p>
                             <ul className="text-xs text-red-200 mt-1 list-disc list-inside space-y-1">
                               <li>Access-Control-Allow-Origin header</li>
-                              <li>Access-Control-Allow-Headers including "X-PAYMENT"</li>
+                              <li>Access-Control-Allow-Headers including &quot;X-PAYMENT&quot;</li>
                               <li>Access-Control-Allow-Methods for the HTTP method used</li>
                             </ul>
                             <p className="text-xs text-red-200 mt-2">
